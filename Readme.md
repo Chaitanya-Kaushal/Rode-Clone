@@ -4,7 +4,7 @@
 ##  **About** :- 
 In this Project, i have used HTML, CSS and Tailwind CSS  creatd  a fully responsive ***Rode-clone***. As a beginner project, i have lerned lots of new CSS classes  like- relative, items-center,  hidden etc and differnt color classes. 
 
-## [***Project-live-Link-->***]() 
+## [***Project-live-Link-->***](https://rodeclonesite.netlify.app/) 
 
 ## <span style="color:red"> **Website Preview-->**</span>
 ![Preview](./Thumbnails/Thumbnail-1.png)
